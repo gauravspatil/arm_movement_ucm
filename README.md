@@ -2,7 +2,7 @@
 
 Motion-capture data and analysis code for a reach-and-transport arm movement
 study, analyzed under the **Uncontrolled Manifold (UCM) hypothesis** — a
-motor-control framework for testing whether variability in joint angles is
+motor-control framework for testing whether variability in joint angles (shoulder, elbow, wrist) is
 "structured" to protect a task-relevant outcome (e.g. where the hand ends up)
 while being allowed to vary freely in directions that don't affect that
 outcome.
